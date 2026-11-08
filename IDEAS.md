@@ -74,10 +74,3 @@ Areas where the method sees things that addons (limited to the game's API) and f
   the interface never shows.
 - **Hotfixes and unreleased content.** Database hotfixes pushed to the client.
 - **Phasing and hidden objects.** Objects or NPCs your phase isn't meant to show yet.
-
-## A note on risk
-
-Recording and decoding your own client's traffic may already be against the game's Terms of Use
-(see the README). Analysing your own play, or showing what the game already shows, is low-risk.
-Revealing hidden information about other players, or pressing keys for you, is much more clearly
-cheating: more likely to get an account banned, and harder to share publicly.
